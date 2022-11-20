@@ -1,4 +1,4 @@
-#  **[OpenSpeedTest](https://openspeedtest.com?Run&ref=Github)** ™ - Free and Open-Source HTML5 Network Performance Estimation Tool.
+#  **[Speed Test](https://openspeedtest.com?Run&ref=Github)** by OpenSpeedTest™ - Free & Open-Source HTML5 Network Performance Estimation Tool.
 
   
 
