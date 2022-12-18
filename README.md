@@ -182,11 +182,11 @@ Edit Index.html
 
 var openSpeedTestServerList = [
 
-{"ServerName":"Home-Earth", "Download":"/downloading", "Upload":"/upload", "ServerIcon":"DefaultIcon"},
+{"ServerName":"Home-Earth", "Download":"/Speed-Test/downloading", "Upload":"/Speed-Test/upload", "ServerIcon":"DefaultIcon"},
 
-{"ServerName":"Home-Mars", "Download":"/downloading", "Upload":"/upload", "ServerIcon":"DefaultIcon"},
+{"ServerName":"Home-Mars", "Download":"/Speed-Test/downloading", "Upload":"/Speed-Test/upload", "ServerIcon":"DefaultIcon"},
 
-{"ServerName":"Home-Moon", "Download":"/downloading", "Upload":"/upload", "ServerIcon":"DefaultIcon"}
+{"ServerName":"Home-Moon", "Download":"/Speed-Test/downloading", "Upload":"/Speed-Test/upload", "ServerIcon":"DefaultIcon"}
 
 ];
 
